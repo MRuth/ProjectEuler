@@ -24,5 +24,6 @@ public class LargeSum
       }
 
     System.out.println(sum.toString().substring(0, 10));
+    in.close();
   }
 }
